@@ -10,4 +10,4 @@ Em andamento :mortar_board:
 
 Desde 2024, em andamento.
 
-Pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).
+Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS
