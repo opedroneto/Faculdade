@@ -1,4 +1,4 @@
-<img src="Images/Computer_science.svg" width="350" align="right">
+<img src="Images/Computer_science.svg" width="300" align="right">
 
 # AULAS E PROJETOS DESENVOLVIDOS NA FACULDADE
 
