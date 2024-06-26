@@ -1,6 +1,6 @@
 <img src="Computer_science.svg" width="300" align="right">
 
-# AULAS E PROJETOS DESENVOLVIDOS DURANTE A FACULDADE
+# AULAS E PROJETOS DESENVOLVIDOS NA FACULDADE
 
 ### Pedro Neto
 
