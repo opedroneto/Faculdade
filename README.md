@@ -6,8 +6,6 @@
 
 Bacharelado em **Análise e Desenvolvimento de Sistemas**.
 
-Em andamento :mortar_board:
-
-Desde 2024, em andamento.
+Desde 2024, em andamento :mortar_board:
 
 Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS
