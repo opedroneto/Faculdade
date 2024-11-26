@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+footer {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Estilos do formulário */
+form {
+  margin: 20px;
+}
+
+/* Carrossel */
+.carousel-item img {
+  height: 300px;
+  object-fit: cover;
+}
